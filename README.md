@@ -35,13 +35,9 @@
 
 ### ScreenShots <br>
 
-![collection_detail](https://github.com/Abhi8358/WallPaper/assets/83907876/48518bf4-4d51-4dc6-b20f-fc3f6294a717)
-![collection_screen](https://github.com/Abhi8358/WallPaper/assets/83907876/1d677a9c-e321-4e85-9adb-886fbc1c2a2a)
-![home_screen](https://github.com/Abhi8358/WallPaper/assets/83907876/e3187573-73a5-4191-82c0-30d703c09abc)
-![video_screen](https://github.com/Abhi8358/WallPaper/assets/83907876/5a323c96-0457-45c7-86c1-9963d6f70d45)
-![wallpaper_description](https://github.com/Abhi8358/WallPaper/assets/83907876/465ad89b-75fa-46c3-a1aa-fe1a90cc92dc)
-![wallpaper_detail 12 26 01 PM](https://github.com/Abhi8358/WallPaper/assets/83907876/d38e255d-f940-4f31-ab92-dd3e2e153c6c)
-![wallpaper](https://github.com/Abhi8358/WallPaper/assets/83907876/7427ddad-7f62-4d5a-99df-c790778b77c7) <br>
+| Collection Detail     | Collection Screen    | Home Screen           | Video Screen          | Wallpaper Description | Wallpaper Detail      | wallpaper |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| ![collection_detail](https://github.com/Abhi8358/WallPaper/assets/83907876/48518bf4-4d51-4dc6-b20f-fc3f6294a717) | ![collection_screen](https://github.com/Abhi8358/WallPaper/assets/83907876/1d677a9c-e321-4e85-9adb-886fbc1c2a2a) | ![home_screen](https://github.com/Abhi8358/WallPaper/assets/83907876/e3187573-73a5-4191-82c0-30d703c09abc) | ![video_screen](https://github.com/Abhi8358/WallPaper/assets/83907876/5a323c96-0457-45c7-86c1-9963d6f70d45) | ![wallpaper_description](https://github.com/Abhi8358/WallPaper/assets/83907876/465ad89b-75fa-46c3-a1aa-fe1a90cc92dc) | ![wallpaper_detail](https://github.com/Abhi8358/WallPaper/assets/83907876/d38e255d-f940-4f31-ab92-dd3e2e153c6c) | ![wallpaper](https://github.com/Abhi8358/WallPaper/assets/83907876/7427ddad-7f62-4d5a-99df-c790778b77c7) |
 
 
 
