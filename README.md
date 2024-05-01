@@ -8,17 +8,6 @@
 - Add both API keys to the `secret.properties` file at the project level.
 - Finally, run the project to launch the Wallpaper app with the added API keys for Pexels and Gemini integration.
 
-## Videos and ScreenShots
-
-### video links <br>
-
-[flow_screen_recording](https://drive.google.com/file/d/1V8RLi0BRX5OdVq6A3ReFbAphxzjKNRGE/view?usp=sharing) <br>
-
-### ScreenShots <br>
-
-[Screens](https://drive.google.com/drive/folders/17owBwZGxCCpeqmC7wm2EzY7EX1xwnnPv?usp=sharing) <br>
-
-
 ## About
 
 - This wallpaper application adheres to the MVVM (Model-View-ViewModel) architecture and adopts the single activity pattern.
@@ -37,6 +26,24 @@
 - Tapping on any wallpaper in the Collection Detail screen redirects the user to the Wallpaper Detail screen.
 - The Wallpaper Detail screen offers a high-resolution wallpaper image, along with sections for downloading, image description, and similar images.
 - Image descriptions are fetched from the Gemini AI API to enrich the user experience.
+
+  ## Videos and ScreenShots
+
+### video links <br>
+
+[flow_screen_recording](https://drive.google.com/file/d/1V8RLi0BRX5OdVq6A3ReFbAphxzjKNRGE/view?usp=sharing) <br>
+
+### ScreenShots <br>
+
+![collection_detail](https://github.com/Abhi8358/WallPaper/assets/83907876/48518bf4-4d51-4dc6-b20f-fc3f6294a717)
+![collection_screen](https://github.com/Abhi8358/WallPaper/assets/83907876/1d677a9c-e321-4e85-9adb-886fbc1c2a2a)
+![home_screen](https://github.com/Abhi8358/WallPaper/assets/83907876/e3187573-73a5-4191-82c0-30d703c09abc)
+![video_screen](https://github.com/Abhi8358/WallPaper/assets/83907876/5a323c96-0457-45c7-86c1-9963d6f70d45)
+![wallpaper_description](https://github.com/Abhi8358/WallPaper/assets/83907876/465ad89b-75fa-46c3-a1aa-fe1a90cc92dc)
+![wallpaper_detail 12 26 01 PM](https://github.com/Abhi8358/WallPaper/assets/83907876/d38e255d-f940-4f31-ab92-dd3e2e153c6c)
+![wallpaper](https://github.com/Abhi8358/WallPaper/assets/83907876/7427ddad-7f62-4d5a-99df-c790778b77c7) <br>
+
+
 
 ## References
 
