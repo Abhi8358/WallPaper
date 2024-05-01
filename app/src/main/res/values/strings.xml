@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DeepInSea</string>
+    <string name="home_title">For You</string>
+    <string name="home_icon_text">Home</string>
+    <string name="collections_icon_text">Collections</string>
+    <string name="interestsr_string_videos">Videos</string>
+    <string name="wallpaper_info">Wallpaper Info</string>
+    <string name="back_button">Back Button</string>
+    <string name="video_formate">.mp4</string>
+    <string name="photo_formate">.jpeg</string>
+    <string name="video_icon">video icon</string>
+    <string name="connect_internet">Please check your internet connection first</string>
+
+    <string name="loading_text">AI is currently generating the description....</string>
+</resources>
